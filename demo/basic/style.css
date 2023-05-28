@@ -1,0 +1,9 @@
+:root {
+    --al: #E30A17;
+}
+#svg-turkey g g:hover {
+    cursor: help;
+}
+#svg-turkey g g:hover path {
+    fill: var(--al) !important;
+}
